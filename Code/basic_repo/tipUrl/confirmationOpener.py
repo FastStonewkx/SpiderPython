@@ -3,7 +3,7 @@ from urllib.error import URLError
 
 username = 'username'
 password = 'password'
-url = 'http://localhost:5000/'
+url = 'http://localhost:80/'
 
 p = HTTPPasswordMgrWithDefaultRealm()
 p.add_password(None, url, username, password)
