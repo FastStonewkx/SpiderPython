@@ -4,3 +4,6 @@ this is about my  learn  spider with python
 原书代码github:
 https://github.com/Python3WebSpider
 作者博客： https://cuiqingcai.com/
+
+
+部分代码有所更改
