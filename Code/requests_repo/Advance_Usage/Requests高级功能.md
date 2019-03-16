@@ -35,3 +35,13 @@ requests获取和设置Cookies比urllib更加方便
 
 这个验证需要有一个页面来登陆访问
 
+这个可以拿一个需要登陆的页面做测试
+
+
+
+## Propared Request
+
+在urllib中，我们可以将请求的数据表示为数据结构，其中各个参数都可以通过Request对象来表示
+
+在requests中，使用Prepared Request来表示这数据结构
+
